@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ec1ada0-58cb-4698-994b-5dd08fcb9583" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/partials/head.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/partials/script.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rotes/registerValidator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/cpfTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/cpfTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotes/registerValidator.js" beforeDir="false" afterPath="$PROJECT_DIR$/rotes/registerValidator.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +68,11 @@
       <updated>1601862758293</updated>
       <workItem from="1601862759378" duration="7558000" />
       <workItem from="1602007962464" duration="3992000" />
-      <workItem from="1602025464008" duration="5070000" />
+      <workItem from="1602025464008" duration="5892000" />
+      <workItem from="1602092330435" duration="1060000" />
+      <workItem from="1602108726133" duration="615000" />
+      <workItem from="1602156662245" duration="3671000" />
+      <workItem from="1602177296128" duration="737000" />
     </task>
     <servers />
   </component>
@@ -90,6 +89,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="339" y="165" key="run.anything.popup" timestamp="1602027496238">
