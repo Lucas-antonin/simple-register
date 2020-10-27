@@ -19,7 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ec1ada0-58cb-4698-994b-5dd08fcb9583" name="Default Changelist" comment="" />
+    <list default="true" id="0ec1ada0-58cb-4698-994b-5dd08fcb9583" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/layouts/main.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/msg.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/partials/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/head.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/partials/script.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/script.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rotes/registerValidator.js" beforeDir="false" afterPath="$PROJECT_DIR$/rotes/routes.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +62,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas\Documents\GitHub\simple-register" />
       <recent name="C:\Users\lucas\Documents\GitHub\simple-register\public\js" />
     </key>
   </component>
@@ -70,6 +82,7 @@
       <workItem from="1602156662245" duration="3671000" />
       <workItem from="1602177296128" duration="737000" />
       <workItem from="1602195679050" duration="9000" />
+      <workItem from="1603800826249" duration="1649000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,22 @@
+{{#each erros}}
+    <div class="alert alert-danger">{{texto}}</div>
+    {{/each}}
+<div class="container">
+<div class="card border-primary mb-3 mt-4">
+    <div class="card-body">
+<form action="/cadastro/register" method="post">
+    <div class="form-group">
+        <label>Name</label>
+        <input type="text" class="form-control" name="nome" id="nome" autocomplete="off" aria-describedby="emailHelp">
+
+    </div>
+    <div class="form-group">
+        <label>CPF</label>
+        <input type="text" class="form-control cpf-mask" name="cpf" id="cpf">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+    </div>
+</div>
+</div>
